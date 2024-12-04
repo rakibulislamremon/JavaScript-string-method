@@ -25,7 +25,19 @@ console.log(
 
 
 // Steing Replace method 
-var country="Nepal"
+/*var country="Nepal"
 console.log(
     country.replace("pal","desh")
+)*/
+
+//Substr method
+/*var country="Bangladesh";
+console.log(
+    country.substr(5,8)
+)*/
+
+//substring method 
+var name="rakibul";
+console.log(
+    name.substring(4,6)
 )
