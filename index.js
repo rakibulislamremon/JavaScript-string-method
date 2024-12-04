@@ -18,7 +18,14 @@ console.log(
 )*/
 
 //String lastindex of method
-var country="Bangladesh";
+/*var country="Bangladesh";
 console.log(
     country.lastIndexOf("h")
+)*/
+
+
+// Steing Replace method 
+var country="Nepal"
+console.log(
+    country.replace("pal","desh")
 )
